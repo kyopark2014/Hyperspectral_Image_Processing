@@ -6,9 +6,6 @@ Conventional image processing cannot detect an object embedded in complex backgr
 Use multiple bands instead of RGB in conventional processing
 Processing is based on spectral contents detected in the object. (i.e., patient face or whole body detection and isolation)
 
-#### Hyperspectral sensing
-![image](https://user-images.githubusercontent.com/52392004/88082266-84c4c680-cbbc-11ea-8e3b-1737c29d1729.png)
-
 
 #### Image data is represented in dozens or hundreds of narrow and adjacent spectral bands
 ![image](https://user-images.githubusercontent.com/52392004/88082589-eab14e00-cbbc-11ea-8361-7ad41d32f9fd.png)
